@@ -37,8 +37,6 @@ export const technologies = [
 
 export const educations = [
   {
-    head: "B.Eng. Computer Engineering",
-    details: "Chulalongkorn University, TH. 2007-2010 (GPA 3.45)",
     head: "Traim Udom Suksa Pattanakarn School(High School)",
     details: "Intensive English-Japanese, TH. 2016-2021 (GPAX 3.36)",
   },
